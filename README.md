@@ -14,4 +14,5 @@ This Python script utilizes the MediaPipe library for hand tracking and OpenCV f
 4. Run the script and visualize the hand landmarks on the webcam feed.
 
 **Output Images**
+
 The script generates output images with annotated hand landmarks. An "output images" directory will be created to store these images.
