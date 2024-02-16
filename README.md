@@ -1,6 +1,7 @@
 **Hand Tracking using MediaPipe and OpenCV**
 
 **Description**
+
 This Python script utilizes the MediaPipe library for hand tracking and OpenCV for webcam handling and image manipulation. It detects hands in real-time from a webcam feed, and the landmarks are visualized on the video stream.
 
 **Installation**
